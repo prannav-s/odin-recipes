@@ -26,6 +26,11 @@ nav {
     margin-right: 37rem;
 }
 
+.intro {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
 .steak-link {
     border-left: 3px solid rgb(69, 35, 35);
     border-right: 3px solid rgb(69, 35, 35);
@@ -76,7 +81,7 @@ a:hover {
 
 .cover.display {
     height: auto;
-    width: 123vh;
+    width: 115vh;
 }
 
 .ingredient {
